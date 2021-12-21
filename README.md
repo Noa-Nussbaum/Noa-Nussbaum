@@ -1,3 +1,5 @@
+<img width="640" alt="UML" src="https://user-images.githubusercontent.com/76524924/146986260-11b69533-2c54-4e1f-b367-03ee1cede76c.gif">
+
 ### Hi there 👋 I'm Noa
 
 <!--
