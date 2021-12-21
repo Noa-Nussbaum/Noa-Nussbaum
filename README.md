@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:paperclips: Currently studying Computer Science and mathematics in Ariel University :paperclips:
+:paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
 
