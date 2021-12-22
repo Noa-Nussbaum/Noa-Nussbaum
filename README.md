@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=800&height=350)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
 
 ### Hi there 👋 I'm Noa
