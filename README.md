@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 :paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
 
+
+<!You can find me here...>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=radical" />
 </a>
