@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum❄️&width=800&height=350)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=800&height=350)](https://github.com/Akshay090/svg-banners)
 
 
 ### Hi there 👋 I'm Noa
@@ -6,7 +6,7 @@
 <!--
 **Noa-Nussbaum/Noa-Nussbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Coffee Please](https://user-images.githubusercontent.com/76524924/147097692-5245941f-17cc-49f9-b6a1-ce4370af114d.gif)
-
+❄️
 
 Here are some ideas to get you started:
 
