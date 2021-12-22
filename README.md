@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 :paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=buefy" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&theme=buefy" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&theme=radical" />
 </a>
