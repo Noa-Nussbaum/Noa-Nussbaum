@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-<img width="350" alt="UML" src="https://user-images.githubusercontent.com/76524924/146986260-11b69533-2c54-4e1f-b367-03ee1cede76c.gif"> 
+<img width="350" img align="center" alt="UML" src="https://user-images.githubusercontent.com/76524924/146986260-11b69533-2c54-4e1f-b367-03ee1cede76c.gif"> 
 
 
 - 🔭 I’m currently working on ...
@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 
 :paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&theme=buefy" />
+</a>
