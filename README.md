@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 <img width="350" img align="center" alt="UML" src="https://user-images.githubusercontent.com/76524924/146986260-11b69533-2c54-4e1f-b367-03ee1cede76c.gif"> 
-
+&theme=dracula
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <!You can find me here...>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=dracula" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&theme=dracula" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact" />
 </a>
