@@ -1,11 +1,13 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+![Coffee Please](https://user-images.githubusercontent.com/76524924/147097692-5245941f-17cc-49f9-b6a1-ce4370af114d.gif)
 
 
 ### Hi there 👋 I'm Noa
 
 <!--
 **Noa-Nussbaum/Noa-Nussbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Coffee Please](https://user-images.githubusercontent.com/76524924/147097692-5245941f-17cc-49f9-b6a1-ce4370af114d.gif)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 ❄️
 
 Here are some ideas to get you started:
@@ -29,8 +31,8 @@ Here are some ideas to get you started:
 <!You can find me here...>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=cobalt" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&theme=cobalt" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&theme=radical" />
 </a>
