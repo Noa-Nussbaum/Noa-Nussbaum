@@ -32,13 +32,14 @@ Here are some ideas to get you started:
   <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+<!You can find me here...>
+https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+
 -->
 
 :paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
 
 
-<!You can find me here...>
-https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=radical" />
