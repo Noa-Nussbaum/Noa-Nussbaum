@@ -9,7 +9,7 @@
 <!--
 **Noa-Nussbaum/Noa-Nussbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Coffee Please](https://user-images.githubusercontent.com/76524924/147097692-5245941f-17cc-49f9-b6a1-ce4370af114d.gif)
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa-Nussbaum&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 ❄️
@@ -55,9 +55,9 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 
 <h3 align="center"> 
   
-![](https://visitor-badge.laobi.icu/badge?page_id=Noa_Nussbaum.visitors) 
-[![Github](https://img.shields.io/github/followers/Noa_Nussbaum?label=Followers&style=social)](https://github.com/Noa_Nussbaum) 
-[![GitHub stars](https://img.shields.io/github/stars/Noa_Nussbaum?label=Stars&style=social)](https://github.com/Noa_Nussbaum)
+![](https://visitor-badge.laobi.icu/badge?page_id=Noa-Nussbaum.visitors) 
+[![Github](https://img.shields.io/github/followers/Noa-Nussbaum?label=Followers&style=social)](https://github.com/Noa-Nussbaum) 
+[![GitHub stars](https://img.shields.io/github/stars/Noa-Nussbaum?label=Stars&style=social)](https://github.com/Noa-Nussbaum)
   
 </h3>
 
@@ -111,10 +111,10 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 </p>
 <h1>📈 Github Stats:</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa_Nussbaum&theme=slateorange&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa_Nussbaum&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
 
 </br></br>
