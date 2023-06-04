@@ -1,5 +1,5 @@
 ![Coffee Please](https://user-images.githubusercontent.com/76524924/147097692-5245941f-17cc-49f9-b6a1-ce4370af114d.gif)
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Noa%70Nussbaum%70👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 
