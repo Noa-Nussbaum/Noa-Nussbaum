@@ -55,9 +55,9 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 
 <h3 align="center"> 
   
-![](https://visitor-badge.laobi.icu/badge?page_id=6arek212.visitors) 
-[![Github](https://img.shields.io/github/followers/6arek212?label=Followers&style=social)](https://github.com/Noa_Nussbaum) 
-[![GitHub stars](https://img.shields.io/github/stars/6arek212?label=Stars&style=social)](https://github.com/Noa_Nussbaum)
+![](https://visitor-badge.laobi.icu/badge?page_id=Noa_Nussbaum.visitors) 
+[![Github](https://img.shields.io/github/followers/Noa_Nussbaum?label=Followers&style=social)](https://github.com/Noa_Nussbaum) 
+[![GitHub stars](https://img.shields.io/github/stars/Noa_Nussbaum?label=Stars&style=social)](https://github.com/Noa_Nussbaum)
   
 </h3>
 
@@ -65,8 +65,7 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 <h3> 📫 Contact Me:</h3>
 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=(https://www.linkedin.com/in/noa-nussbaum-5b4b76235/))]((https://www.linkedin.com/in/noa-nussbaum-5b4b76235/))
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/noa-nussbaum-5b4b76235/)](https://www.linkedin.com/in/noa-nussbaum-5b4b76235/)
 
 
 <h1> 🔬 My Knowledge:</h1>
@@ -112,10 +111,10 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 </p>
 <h1>📈 Github Stats:</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6arek212&theme=slateorange&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa_Nussbaum&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=6arek212&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa_Nussbaum&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
 
 </br></br>
