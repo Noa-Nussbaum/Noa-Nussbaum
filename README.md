@@ -52,11 +52,6 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
   <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&show_icons=true&theme=radical" />
 </a>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Tarik_Husin&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
-
-
-<h1 align="center">Hi there 👋, I'm Tarik</h1>
-<h3 align="center">Computer Science student at Ariel University, second year</h3>
 
 <h3 align="center"> 
   
@@ -71,7 +66,7 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/tarik-husin-706754184/](https://www.linkedin.com/in/noa-nussbaum-5b4b76235/))]([https://www.linkedin.com/in/tarik-husin-706754184/](https://www.linkedin.com/in/noa-nussbaum-5b4b76235/))
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=(https://www.linkedin.com/in/noa-nussbaum-5b4b76235/))]((https://www.linkedin.com/in/noa-nussbaum-5b4b76235/))
 
 
 <h1> 🔬 My Knowledge:</h1>
