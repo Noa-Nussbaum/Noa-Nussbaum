@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Noa%30Nussbaum%30💻&width=800&height=250)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Noa%20Nussbaum%20💻&width=800&height=250)](https://github.com/Akshay090/svg-banners)
 
 
 
