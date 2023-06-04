@@ -2,6 +2,7 @@
 
 
 ### Hi there 👋 I'm Noa
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Noa_Nussbaum&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 <!--
 **Noa-Nussbaum/Noa-Nussbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
