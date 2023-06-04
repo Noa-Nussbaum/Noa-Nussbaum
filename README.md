@@ -44,20 +44,6 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 :paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&show_icons=true&theme=radical" />
-</a>
-
-
-<h3 align="center"> 
-  
-![](https://visitor-badge.laobi.icu/badge?page_id=Noa-Nussbaum.visitors) 
-[![Github](https://img.shields.io/github/followers/Noa-Nussbaum?label=Followers&style=social)](https://github.com/Noa-Nussbaum) 
-[![GitHub stars](https://img.shields.io/github/stars/Noa-Nussbaum?label=Stars&style=social)](https://github.com/Noa-Nussbaum)
   
 </h3>
 
@@ -110,18 +96,20 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 </br></br>
 </p>
 <h1>📈 Github Stats:</h1>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&theme=slateorange&layout=compact" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noa-Nussbaum&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+  <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noa-Nussbaum&layout=compact&show_icons=true&theme=radical" />
 </a>
 
-</br></br>
 
-<a href="https://resumesnew-bd421.firebaseapp.com/Jj6rmK32b4WUmKpNs2LK">
- Check My Portfolio Website 
-</a>
+<h3 align="center"> 
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=Noa-Nussbaum.visitors) 
+[![Github](https://img.shields.io/github/followers/Noa-Nussbaum?label=Followers&style=social)](https://github.com/Noa-Nussbaum) 
+[![GitHub stars](https://img.shields.io/github/stars/Noa-Nussbaum?label=Stars&style=social)](https://github.com/Noa-Nussbaum)
 
 
 
