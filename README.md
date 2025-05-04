@@ -46,7 +46,7 @@ https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce
 
 -->
 
-:paperclips: Currently studying Computer Science and Mathematics in Ariel University :paperclips:
+:paperclips: Fullstack Developer :paperclips:
 
 
   
